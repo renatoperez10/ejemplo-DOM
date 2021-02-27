@@ -1,0 +1,17 @@
+ul, li {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+img {
+  max-width: 300px;
+}
+.gatete-triste {
+  border: 3px solid blue;
+}
+.gatete-feliz {
+  border: 3px solid red;
+}
+.nuevo-gatete {
+  border: 3px solid purple;
+}
